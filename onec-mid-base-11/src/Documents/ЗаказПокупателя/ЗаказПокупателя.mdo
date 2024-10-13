@@ -228,10 +228,10 @@
         <nonNegative>true</nonNegative>
       </numberQualifiers>
     </type>
-    <minValue xsi:type="core:StringValue">
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:StringValue">
       <value>100</value>
-    </minValue>
-    <maxValue xsi:type="core:UndefinedValue"/>
+    </maxValue>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
